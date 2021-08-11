@@ -1,28 +1,16 @@
 {
-    "posts": [
-        {
-            "adult": false,
-            "backdrop_path": "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
-            "genre_ids": [
-              28,
-              12,
-              35,
-              878
-            ],
-            "id": 436969,
-            "original_language": "en",
-            "original_title": "The Suicide Squad",
-            "overview": "Bloodsport, Peacemaker, Kaptan Boomerang, Ratcatcher 2, Savant, King Shark, Blackguard, Javelin ve herkesin en sevdiği psikopat Harley Quinn dahil olmak üzere bir mahkum koleksiyonu oluşturun. Sonra onları ağır bir şekilde silahlandırın ve (kelimenin tam anlamıyla) uzaktaki, düşmanla beslenen Corto Maltese adasına bırakın. Her fırsatta militan düşmanlar ve gerilla güçleri ile dolu bir ormanda yürüyüş yapan Squad, yerde sadece Albay Rick Flag ile onları harekete geçirecek bir ara-yok et görevinde ... ve her zaman olduğu gibi Amanda Waller'ın hükümet teknisyenlerinin kulaklarında her hareket, bir yanlış hamle ve ölürler (rakiplerinin, bir takım arkadaşının veya Waller'ın kendi elinde). Biri bahis koyuyorsa, akıllı para onların aleyhine olur – hepsinin aleyhine.",
-            "popularity": 8169.739,
-            "poster_path": "/65HH8CsLmesa8yAv4kB4HTvYK74.jpg",
-            "release_date": "2021-07-28",
-            "title": "The Suicide Squad: İntihar Timi",
-            "video": false,
-            "vote_average": 8.1,
-            "vote_count": 1572
-          }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
-  }
+  "adult": false,
+  "backdrop_path": "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+  "genre_ids": [28, 12, 35, 878],
+  "id": 436969,
+  "original_language": "en",
+  "original_title": "The Suicide Squad",
+  "overview": "Bloodsport, Peacemaker, Kaptan Boomerang, Ratcatcher 2, Savant, King Shark, Blackguard, Javelin ve herkesin en sevdiği psikopat Harley Quinn dahil olmak üzere bir mahkum koleksiyonu oluşturun. Sonra onları ağır bir şekilde silahlandırın ve (kelimenin tam anlamıyla) uzaktaki, düşmanla beslenen Corto Maltese adasına bırakın. Her fırsatta militan düşmanlar ve gerilla güçleri ile dolu bir ormanda yürüyüş yapan Squad, yerde sadece Albay Rick Flag ile onları harekete geçirecek bir ara-yok et görevinde ... ve her zaman olduğu gibi Amanda Waller'ın hükümet teknisyenlerinin kulaklarında her hareket, bir yanlış hamle ve ölürler (rakiplerinin, bir takım arkadaşının veya Waller'ın kendi elinde). Biri bahis koyuyorsa, akıllı para onların aleyhine olur – hepsinin aleyhine.",
+  "popularity": 8169.739,
+  "poster_path": "/65HH8CsLmesa8yAv4kB4HTvYK74.jpg",
+  "release_date": "2021-07-28",
+  "title": "The Suicide Squad: İntihar Timi",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 1572
+}
