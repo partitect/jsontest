@@ -33,50 +33,6 @@
     "quantity": "10"
   },
   {
-    "title": "Jordan-React-Elevation-PF",
-    "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Jordan-React-Elevation-PF.png",
-    "price": "200",
-    "quantity": "10"
-  },
-  {
-    "title": "Jordan-Westbrook-One-Take-PF",
-    "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Jordan-Westbrook-One-Take-PF.png",
-    "price": "200",
-    "quantity": "10"
-  },
-    {
-    "title": "Aj-3",
-    "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Aj-3.png",
-    "price": "200",
-    "quantity": "10"
-  },
-  {
-    "title": "KD-Trey-5-VIII-EP",
-    "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/KD-Trey-5-VIII-EP.png",
-    "price": "200",
-    "quantity": "10"
-  },
-  {
-    "title": "Kyrie-6-By-You",
-    "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Kyrie-6-By-You.png",
-    "price": "200",
-    "quantity": "10"
-  },
-
-  {
-    "title": "Nike-Air-Max-270-React",
-    "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Air-Max-270-React.png",
-    "price": "200",
-    "quantity": "10"
-  },
-  {
-    "title": "Nike-Air-Max-270-XX",
-    "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Air-Max-270-XX.png",
-    "price": "200",
-    "quantity": "10"
-  },
-
-  {
     "title": "Nike-Air-Max-Alpha-Savage",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Air-Max-Alpha-Savage.png",
     "price": "200",
