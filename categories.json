@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Nike Lebron VII QS",
+        "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Lebron-VII-QS.png",
+        "category": "Running"
+    },
+    {
+        "title": "Nike Zoom Moc.png",
+        "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Zoom-Moc-The-10th.png",
+        "category": "Walking"
+    },
+    {
+        "title": "Nike Air Max Bella",
+        "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Air-Max-Bella-TR-3.png",
+        "category": "Tennis"
+    },
+    {
+        "title": "Jordan Westbrook One Take",
+        "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Jordan-Westbrook-One-Take-PF.png",
+        "category": "Jordan"
+    },
+    {
+        "title": "Nike Free Trainer",
+        "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Free-Trainer-3.png",
+        "category": "Trainig"
+    }
+]
