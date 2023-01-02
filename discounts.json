@@ -4,34 +4,39 @@
     "stokCode":"74fda164-6e46-4ae3-ae54-f4d1baef514f",
     "title": "AIR JORDAN 14 RETRO",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/AIR-JORDAN-14-RETRO.png",
-    "discount": "30"
+    "discount": "30",
+    "price":26.90
   },
   {
     "id":2,
     "stokCode":"7f7ad702-0cb7-42c6-b08c-8714b6263555",
     "title": "Air Jordan XXXIII PF",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Air-Jordan-XXXIII-PF.png",
-    "discount": "45"
+    "discount": "45",
+    "price":33.00
   },
   {
     "id":3,
     "stokCode":"e69dd604-d138-47d4-ac9b-cec7ce6712ce",
     "title": "JORDAN ZOOM 92",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/JORDAN-ZOOM-92.png",
-    "discount": "25"
+    "discount": "25",
+    "price":42.50
   },
   {
     "id":4,
     "stokCode":"68ac0c3f-29dc-4a2e-871c-7ee2c351be51",
     "title": "Lebron Soldier Xill ByYou",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Lebron-Soldier-Xill-ByYou.png",
-    "discount": "50"
+    "discount": "50",
+    "price":27.20
   },
   {
     "id":5,
     "stokCode":"429baadf-b788-43ad-a7e3-f46685900a55",
     "title": "Nike Free Trainer 3.0-x MMW",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Free-Trainer-3.png",
-    "discount": "10"
+    "discount": "10",
+    "price":48.60
   }
 ]

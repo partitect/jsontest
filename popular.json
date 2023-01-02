@@ -4,7 +4,7 @@
     "stokCode":"b73a9aed-7dfa-4732-83ff-734c43dbf62c",
     "title": "Zoom Moc",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Zoom-Moc-The-10th.png",
-    "price": "180",
+    "price":41.90,
     "quantity": "10"
   },
   {
@@ -12,7 +12,7 @@
     "stokCode":"6f8489a4-963c-46cd-aa43-9d4c983d7535",
     "title": "Alpha Savage",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Air-Max-Alpha-Savage.png",
-    "price": "200",
+    "price":30.25,
     "quantity": "10"
   },
 
@@ -22,7 +22,7 @@
     "stokCode":"ee635504-7ac3-4170-a620-24769523a992",
     "title": "AJ",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Aj-4.png",
-    "price": "200",
+    "price":28.90,
     "quantity": "10"
   },
   
@@ -31,7 +31,7 @@
     "stokCode":"68697b52-b26f-4f39-992f-473fb3195cfc",
     "title": "Jordan Apex",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Jordan-Apex-React.png",
-    "price": "200",
+    "price":41.90,
     "quantity": "10"
   },
   {
@@ -39,7 +39,7 @@
     "stokCode":"f02309fb-ff44-4aac-bfb8-c94efc08de65",
     "title": "Jordan Mars",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Jordan-Mars-270-Low.png",
-    "price": "200",
+    "price":28.50,
     "quantity": "10"
   },
   {
@@ -47,7 +47,7 @@
     "stokCode":"b08bf3ff-ea21-4331-b95e-3a9cf3960d02",
     "title": "Alpha Savage",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Air-Max-Alpha-Savage.png",
-    "price": "200",
+    "price":49.90,
     "quantity": "10"
   },
   {
@@ -55,7 +55,7 @@
     "stokCode":"91bcb8dd-8acc-4a4b-a19c-9d3705d962d3",
     "title": "Bella",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Air-Max-Bella-TR-3.png",
-    "price": "200",
+    "price":21.00,
     "quantity": "10"
   },
   {
@@ -63,7 +63,7 @@
     "stokCode":"c97c6ec5-45b3-46cc-9adf-90dc3f0c92cd",
     "title": "Lebron QS",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Lebron-VII-QS.png",
-    "price": "200",
+    "price":31.25,
     "quantity": "10"
   }
 ]
