@@ -1,6 +1,6 @@
 [
   {
-    "id":1,
+    "id":6,
     "stokCode":"b73a9aed-7dfa-4732-83ff-734c43dbf62c",
     "title": "Zoom Moc",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Zoom-Moc-The-10th.png",
@@ -8,7 +8,7 @@
     "quantity": "10"
   },
   {
-    "id":2,
+    "id":7,
     "stokCode":"6f8489a4-963c-46cd-aa43-9d4c983d7535",
     "title": "Alpha Savage",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Air-Max-Alpha-Savage.png",
@@ -18,7 +18,7 @@
 
 
   {
-    "id":3,
+    "id":8,
     "stokCode":"ee635504-7ac3-4170-a620-24769523a992",
     "title": "AJ",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Aj-4.png",
@@ -27,7 +27,7 @@
   },
   
   {
-    "id":4,
+    "id":9,
     "stokCode":"68697b52-b26f-4f39-992f-473fb3195cfc",
     "title": "Jordan Apex",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Jordan-Apex-React.png",
@@ -35,7 +35,7 @@
     "quantity": "10"
   },
   {
-    "id":5,
+    "id":10,
     "stokCode":"f02309fb-ff44-4aac-bfb8-c94efc08de65",
     "title": "Jordan Mars",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Jordan-Mars-270-Low.png",
@@ -43,7 +43,7 @@
     "quantity": "10"
   },
   {
-    "id":6,
+    "id":11,
     "stokCode":"b08bf3ff-ea21-4331-b95e-3a9cf3960d02",
     "title": "Alpha Savage",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Air-Max-Alpha-Savage.png",
@@ -51,7 +51,7 @@
     "quantity": "10"
   },
   {
-    "id":7,
+    "id":12,
     "stokCode":"91bcb8dd-8acc-4a4b-a19c-9d3705d962d3",
     "title": "Bella",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Air-Max-Bella-TR-3.png",
@@ -59,7 +59,7 @@
     "quantity": "10"
   },
   {
-    "id":8,
+    "id":13,
     "stokCode":"c97c6ec5-45b3-46cc-9adf-90dc3f0c92cd",
     "title": "Lebron QS",
     "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Lebron-VII-QS.png",
