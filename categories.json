@@ -1,30 +1,35 @@
 [
     {
         "id":1,
+        "stokCode":"3f1fa21f-065b-49f0-ac35-468ca0bf9395",
         "title": "Nike Lebron VII QS",
         "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Lebron-VII-QS.png",
         "category": "Running"
     },
     {
         "id":2,
+        "stokCode":"82a7beb8-d1be-4cab-aff1-255709414fbb",
         "title": "Nike Zoom Moc.png",
         "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Zoom-Moc-The-10th.png",
         "category": "Walking"
     },
     {
         "id":3,
+        "stokCode":"ce686c0c-5ab1-4249-a9ca-ace3e8e7bd33",
         "title": "Nike Air Max Bella",
         "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Air-Max-Bella-TR-3.png",
         "category": "Tennis"
     },
     {
         "id":4,
+        "stokCode":"8e4724d1-79d5-4450-a662-f321e08a94ca",
         "title": "Jordan Westbrook One Take",
         "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Jordan-Westbrook-One-Take-PF.png",
         "category": "Jordan"
     },
     {
         "id":5,
+        "stokCode":"c8d6f018-d188-489a-91f7-fdbb824ba4b2",
         "title": "Nike Free Trainer",
         "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Free-Trainer-3.png",
         "category": "Trainig"
