@@ -2,22 +2,22 @@
     {
         "id":1,
         "stokCode":"3f1fa21f-065b-49f0-ac35-468ca0bf9395",
-        "title": "Nike Lebron VII QS",
-        "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Kyrie-6-By-You.png",
+        "title": "Nike Air Max",
+        "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Air-Max-270-XX.png",
         "category": "Running"
     },
     {
         "id":2,
         "stokCode":"82a7beb8-d1be-4cab-aff1-255709414fbb",
-        "title": "Nike Zoom Moc.png",
+        "title": "Lebron Prime",
         "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/LeBron-XVII-PRM-EP.png",
         "category": "Walking"
     },
     {
         "id":3,
         "stokCode":"ce686c0c-5ab1-4249-a9ca-ace3e8e7bd33",
-        "title": "Nike Air Max Bella",
-        "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Nike-Air-Max-270-XX.png",
+        "title": "Kyre By You",
+        "image": "https://raw.githubusercontent.com/partitect/jsontest/main/images/nike-shoes-png/Kyrie-6-By-You.png",
         "category": "Tennis"
     },
     {
